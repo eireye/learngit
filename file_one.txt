@@ -6,3 +6,8 @@ git init
 git status
 git add
 git commit -m
+git log q
+git fetch
+git push
+git pull
+git switch
