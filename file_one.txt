@@ -1,6 +1,8 @@
-my first file
-ggi
-gfrdghrdh
+cls to clear
+cd to choose destination
+cd.. to go up one
 
-rhd
-rhdrdgit
+git init
+git status
+git add
+git commit -m
